@@ -1,5 +1,13 @@
 # Welcome to Remix!
 
+
+This project was initialized via the following script
+```sh
+npx create-remix --template remix-run/remix/templates/cloudflare-pages
+```
+
+And then wrangler was pinned to version 3.8.0 and npm install was re-run.
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
